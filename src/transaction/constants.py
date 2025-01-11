@@ -1,0 +1,1 @@
+STATISTICS_CACHE_KEY = 'statistics'
